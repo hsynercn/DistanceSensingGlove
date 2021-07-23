@@ -5,7 +5,7 @@ An ultrasonic distance sensor which located at the hand palm provides distance m
 
 Linear signal transformation does not work very well with close quarters, it is easier to sense closer objects with a reverse exponential curve.
 
-Added a gyro for user inputs, deactivates the haptic feed if hand switches a relaxed state.
+Added a gyro for user input, deactivates the haptic feed if hand switches a relaxed state.
 
 Original sketech has a LCD display for test purpose.
 
