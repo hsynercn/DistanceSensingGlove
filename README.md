@@ -11,9 +11,9 @@ Original sketech has a LCD display for test purpose.
 
 Tests:
 
-[![First video](https://youtu.be/JeSxJKtVPUc/1.jpg)](https://youtu.be/JeSxJKtVPUc)
+[![First video](https://img.youtube.com/vi/JeSxJKtVPUc/3.jpg)](https://www.youtube.com/watch?v=JeSxJKtVPUc)
 
-[![First video](https://youtu.be/OgBKlKTL4fs/1.jpg)](https://youtu.be/OgBKlKTL4fs)
+[![Second video](https://img.youtube.com/vi/OgBKlKTL4fs/3.jpg)](https://www.youtube.com/watch?v=OgBKlKTL4fs)
 
 
 
