@@ -1,2 +1,4 @@
 # DistanceSensingGlove
-A guidance glove for people who can`t see
+A guidance glove for visually impaired.
+
+
