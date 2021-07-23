@@ -9,7 +9,7 @@ Added a gyro for user inputs, deactivates the haptic feed if hand switches a rel
 
 Original sketech has a LCD display for test purpose.
 
-Tests - Sorry for the cemara angle and motor static, 2017 was a rough year.
+Tests - Sorry for the cemara angle and motor static, 2015 was a rough year.
 
 [![First video](https://img.youtube.com/vi/JeSxJKtVPUc/0.jpg)](https://www.youtube.com/watch?v=JeSxJKtVPUc)
 
