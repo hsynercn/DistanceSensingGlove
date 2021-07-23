@@ -7,7 +7,11 @@ Linear signal transformation does not work very well with close quarters, it is 
 
 Added a gyro for user inputs, deactivates the haptic feed if hand switches a relaxed state.
 
-Original sketech has a LCD display for test purpose. 
+Original sketech has a LCD display for test purpose.
+
+Tests:
+https://youtu.be/OgBKlKTL4fs
+https://youtu.be/JeSxJKtVPUc
 
 Diagrams
 
