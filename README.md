@@ -1,15 +1,20 @@
 # DistanceSensingGlove
-This is a guidance glove for visually impaired.
+This is a haptic guidance glove for visually impaired.
 
 An ultrasonic distance sensor which located at the hand palm provides distance measurements(up to 4.0 meters for specific sensor) to Arduino Uno. Arduino drives a small unbalanced vibration motor with a simple amplifier, distance information transferred with a reverse exponential function. 
 
 Linear signal transformation does not work very well with close quarters, it is easier to sense closer objects with a reverse exponential curve.
 
+Added a gyro for user inputs, deactivates the haptic feed if hand switches a relaxed state.
+
 Original sketech has a LCD display for test purpose. 
 
-Diagram
+Diagrams
 
 ![Design](https://user-images.githubusercontent.com/28985966/126775627-03e1be77-84a2-4d69-a419-081964331378.png)
+
+![Design_Breadbord](https://user-images.githubusercontent.com/28985966/126777317-b487df19-46eb-4d40-8bfc-4f9b605bd120.png)
+
 
 Implemented form
 
